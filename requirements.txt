@@ -1,5 +1,8 @@
-telethon==1.38.1
+aiohttp==3.8.1
 asyncio==3.4.3
-datetime==5.5
-openai==0.28
+DateTime==5.5
+openai==1.59.4
 python-decouple==3.8
+requests==2.32.3
+Telethon==1.38.1
+
