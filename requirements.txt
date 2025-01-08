@@ -1,0 +1,5 @@
+telethon==1.38.1
+asyncio==3.4.3
+datetime==5.5
+openai==0.28
+python-decouple==3.8
